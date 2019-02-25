@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "125081475485",
+    "firebase_url": "https://trychat-76a34.firebaseio.com",
+    "project_id": "trychat-76a34",
+    "storage_bucket": "trychat-76a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125081475485:android:13eebc23e504fd49",
+        "android_client_info": {
+          "package_name": "tom.com.chatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125081475485-asls9tpsb65ok6u2ulionvf39fqj6obj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tom.com.chatchat",
+            "certificate_hash": "f5aea8a58aac63ec3849670796c82aefc586ab56"
+          }
+        },
+        {
+          "client_id": "125081475485-h95s19gnke8n1m9s3v3ou6tuneb0nl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47EBy-n4N72TjR3QLcbm7Gf4sSkr_lEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125081475485-h95s19gnke8n1m9s3v3ou6tuneb0nl93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
